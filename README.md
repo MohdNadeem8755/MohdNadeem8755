@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/MohdNadeem8755.png?size=420" width="210" alt="Mohd Nadeem’s GitHub avatar">
+<img src="assets/portrait-front.webp" width="210" alt="Mohd Nadeem’s GitHub avatar">
 
 # Mohd Nadeem
 
@@ -98,7 +98,7 @@ Explore how temperature, humidity, gas readings and occupancy feed into an air-q
 
 <div align="center">
 
-<img src="https://github.com/MohdNadeem8755.png?size=420" width="215" alt="Mohd Nadeem">
+<img src="assets/portrait-front.webp" width="215" alt="Mohd Nadeem">
 
 ### Have an idea for a data science project?
 
@@ -112,10 +112,7 @@ Explore how temperature, humidity, gas readings and occupancy feed into an air-q
 
 ## Animated Profile Panels
 
-<table><tr>
-<td width="56%"><img src="assets/hero-intro.svg" width="586" alt="Mohd Nadeem’s animated AI and ML introduction"></td>
-<td align="center" width="44%"><img src="https://github.com/MohdNadeem8755.png?size=420" width="420" alt="Mohd Nadeem’s GitHub profile photo"></td>
-</tr></table>
+<img src="assets/hero.svg" width="100%" alt="Mohd Nadeem’s animated profile with his portrait inside the panel">
 
 ### What I work on
 
@@ -127,17 +124,12 @@ Python and data analysis · Predictive modelling · DSA and problem solving · W
 
 <img src="assets/orbit.svg" width="100%" alt="Orbiting languages, machine learning tools and databases">
 
-### Profile, in focus
-
-<table><tr>
-<td width="40%" align="center"><img src="https://github.com/MohdNadeem8755.png?size=420" width="320" alt="Mohd Nadeem’s GitHub profile photo"></td>
-<td width="60%"><img src="assets/id-card-details.svg" width="596" alt="Mohd Nadeem’s animated ID card with education, internship and training milestones"></td>
-</tr></table>
+<img src="assets/record.svg" width="100%" alt="Mohd Nadeem’s portrait and milestones on an animated ID card">
 
 
 ### Let’s work together
 
-<table><tr><td align="center"><img src="https://github.com/MohdNadeem8755.png?size=420" width="320" alt="Mohd Nadeem"></td><td>
+<table><tr><td align="center"><img src="assets/portrait-front.webp" width="320" alt="Mohd Nadeem"></td><td>
 <a href="https://github.com/MohdNadeem8755?tab=repositories"><img src="assets/link-github.svg" width="530" alt="GitHub"></a><br>
 <a href="https://www.linkedin.com/in/mohd-nadeem-/"><img src="assets/link-linkedin.svg" width="530" alt="LinkedIn"></a><br>
 <a href="mailto:mohd87nadeem87mn@gmail.com"><img src="assets/link-email.svg" width="530" alt="Email"></a>

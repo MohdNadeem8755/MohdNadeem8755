@@ -126,7 +126,14 @@ Python and data analysis · Predictive modelling · DSA and problem solving · W
 <a href="https://github.com/MohdNadeem8755/MohdNadeem8755/blob/main/README.md#experience--learning"><img src="assets/link-graphs.svg" width="530" alt="Graph algorithms — Read the Code Quest bootcamp project summary"></a>
 
 <img src="assets/orbit.svg" width="100%" alt="Orbiting languages, machine learning tools and databases">
-<img src="assets/record.svg" width="100%" alt="Animated ID card with education, internship and training milestones">
+
+### Profile, in focus
+
+<table><tr>
+<td width="40%" align="center"><img src="https://github.com/MohdNadeem8755.png?size=420" width="320" alt="Mohd Nadeem’s GitHub profile photo"></td>
+<td width="60%"><img src="assets/id-card-details.svg" width="596" alt="Mohd Nadeem’s animated ID card with education, internship and training milestones"></td>
+</tr></table>
+
 
 ### Let’s work together
 

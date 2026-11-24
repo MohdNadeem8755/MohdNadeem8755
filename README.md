@@ -8,7 +8,7 @@
 
 <img src="assets/intro.svg" width="720" alt="Building GeneVISTA, exploring genomic data, and forecasting passenger demand">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohdNadeem8755-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdNadeem8755)
+[![GitHub](https://img.shields.io/badge/GitHub-MohdNadeem8755-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdNadeem8755?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohd-nadeem-/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd87nadeem87mn@gmail.com)
 
@@ -102,7 +102,7 @@ Explore how temperature, humidity, gas readings and occupancy feed into an air-q
 
 ### Have an idea for a data science project?
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohdNadeem8755-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdNadeem8755)
+[![GitHub](https://img.shields.io/badge/GitHub-MohdNadeem8755-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdNadeem8755?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohd-nadeem-/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd87nadeem87mn@gmail.com)
 
@@ -113,14 +113,30 @@ Explore how temperature, humidity, gas readings and occupancy feed into an air-q
 ## Animated Profile Panels
 
 <img src="assets/hero.svg" width="100%" alt="Mohd Nadeem’s animated AI and ML profile card">
-<img src="assets/interests.svg" width="100%" alt="Interests in genomic data, forecasting and algorithms">
+
+### What I work on
+
+Python and data analysis · Predictive modelling · DSA and problem solving · Web apps and databases
+
+<a href="https://github.com/MohdNadeem8755/GeneVISTA-AI-Powered-Genomic-Variant-Interpretation-Disease-Prediction-Platform"><img src="assets/link-variants.svg" width="530" alt="Variant interpretation — Explore GeneVISTA"></a><br>
+<a href="https://github.com/MohdNadeem8755/Data-_Science-_Capstone_Project-_-Transport-Demand-Prediction-"><img src="assets/link-forecast.svg" width="530" alt="Transport forecasting — Explore Transport Demand Prediction"></a><br>
+<a href="https://github.com/MohdNadeem8755/MohdNadeem8755/blob/main/README.md#experience--learning"><img src="assets/link-graphs.svg" width="530" alt="Graph algorithms — Read the Code Quest bootcamp project summary"></a>
+
 <img src="assets/orbit.svg" width="100%" alt="Orbiting languages, machine learning tools and databases">
 <img src="assets/record.svg" width="100%" alt="Animated ID card with education, internship and training milestones">
-<img src="assets/connect.svg" width="100%" alt="Contact options for Mohd Nadeem">
+
+### Let’s work together
+
+<table><tr><td align="center"><img src="https://github.com/MohdNadeem8755.png?size=420" width="320" alt="Mohd Nadeem"></td><td>
+<a href="https://github.com/MohdNadeem8755?tab=repositories"><img src="assets/link-github.svg" width="530" alt="GitHub"></a><br>
+<a href="https://www.linkedin.com/in/mohd-nadeem-/"><img src="assets/link-linkedin.svg" width="530" alt="LinkedIn"></a><br>
+<a href="mailto:mohd87nadeem87mn@gmail.com"><img src="assets/link-email.svg" width="530" alt="Email"></a>
+</td></tr></table>
+
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-MohdNadeem8755-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdNadeem8755)
+[![GitHub](https://img.shields.io/badge/GitHub-MohdNadeem8755-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohdNadeem8755?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohd-nadeem-/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohd87nadeem87mn@gmail.com)
 

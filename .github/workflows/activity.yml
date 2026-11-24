@@ -1,8 +1,10 @@
-name: Update contribution snake
+name: Refresh profile analytics and contribution snake
 on:
   push:
     paths:
       - '.github/workflows/activity.yml'
+      - 'scripts/refresh-profile.py'
+      - 'assets/portrait-*'
   schedule:
     - cron: '23 3 * * *'
   workflow_dispatch:
@@ -26,13 +28,17 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/activity.svg?palette=github-dark&color_snake=#37d4c5
-      - name: Save updated image
+            assets/activity.svg?palette=github-dark&color_snake=#8a0e82
+      - name: Refresh statistics and portraits
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 scripts/refresh-profile.py
+      - name: Save updated profile
         run: |
-          git add -- assets/activity.svg
+          git add -- assets/activity.svg assets/analytics.svg assets/hero.svg assets/record.svg assets/connect.svg
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Refresh contribution activity"
+          git commit -m "Refresh profile activity and analytics"
           git pull --rebase
           git push

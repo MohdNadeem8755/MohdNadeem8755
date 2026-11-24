@@ -112,7 +112,10 @@ Explore how temperature, humidity, gas readings and occupancy feed into an air-q
 
 ## Animated Profile Panels
 
-<img src="assets/hero.svg" width="100%" alt="Mohd Nadeem’s animated AI and ML profile card">
+<table><tr>
+<td width="56%"><img src="assets/hero-intro.svg" width="586" alt="Mohd Nadeem’s animated AI and ML introduction"></td>
+<td align="center" width="44%"><img src="https://github.com/MohdNadeem8755.png?size=420" width="420" alt="Mohd Nadeem’s GitHub profile photo"></td>
+</tr></table>
 
 ### What I work on
 
